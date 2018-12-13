@@ -50,7 +50,7 @@ console.log('hello world')
 
 ## GTM コンテナを作成する [(公式)](https://support.google.com/tagmanager/answer/6103696?hl=ja#new)
 1. GTMのページにアクセスし、アカウントを作成
-![account](./img/account.png)
+![account](./img/account.PNG)
 <!--v-->
 
 ## サイトを立ち上げる [(fork する)](https://github.com/uncovertruth/newbie-training)
